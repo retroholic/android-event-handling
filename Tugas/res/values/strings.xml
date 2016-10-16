@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tugas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtNama">Nama : Aldhi Fajar Maudhi</string>
+    <string name="txtNim">Nim : 13111078</string>
+    <string name="Image">bdg</string>
+    <string name="Button">View</string>
+    <string name="txtFacebook">FB : http://facebook.com/aldhifajar</string>
+    <string name="txtNim2">NIM SAYA: 13111078</string>
+
+</resources>
